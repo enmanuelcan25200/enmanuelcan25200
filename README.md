@@ -2,7 +2,7 @@
 
 ##SOBRE MI
 
-soy estudiante de programación de segundo semestre en la carrera de programación. actualmente estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.##
+##soy estudiante de programación de segundo semestre en la carrera de programación. actualmente estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.##
 
 - colegio de estudios cientificos y tecnologicos del estado de campeche plantel pomuch
 - actuelmente aprendiendo : **pyton** y **gestion de versiones con git y github**:
